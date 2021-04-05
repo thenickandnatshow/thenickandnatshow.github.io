@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### TEST AUDIO STUFF
-*[HTML]: <audio controls><source src="media/1. Mutilated Lips - Copy.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+*[<audio controls><source src="media/1. Mutilated Lips - Copy.mp3" type="audio/mpeg">]: Your browser does not support the audio element.</audio>
 
 ### Support or Contact
 
