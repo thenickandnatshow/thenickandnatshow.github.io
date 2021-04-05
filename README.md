@@ -1,6 +1,5 @@
 ## The Nick and Nat Show
 Something about the show.
-*<audio controls><source src="thenickandnatshow.github.io/media/MutilatedLips.mp3" type="audio/mpeg"> : Your Browser does not support the audio element.
 
 ### Podcast Episodes
 Episode 1: 
