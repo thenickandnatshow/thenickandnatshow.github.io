@@ -8,5 +8,3 @@ Something about the show.
 
 ### Support or Contact
 Interested in our show? For inquiries contact contact info.
-
-Color code: #2bde73
